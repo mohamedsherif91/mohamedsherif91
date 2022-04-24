@@ -10,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/msherif91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msherif91" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohamedsherif91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamedsherif91" height="30" width="40" /></a>
 <a href="https://fb.com/mohamedsherif91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedsherif91" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed.sherif91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed.sherif91" height="30" width="40" /></a>
 </p>
